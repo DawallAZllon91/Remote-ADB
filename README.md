@@ -1,3 +1,4 @@
+![Uploading repository-open-graph-template.png…]()
 ## Download
 - [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
 
